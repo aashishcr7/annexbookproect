@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/annexbookproect/static/css/main.7d9d3625.css",
+    "main.js": "/annexbookproect/static/js/main.be5184c6.js",
+    "static/js/787.3f236e36.chunk.js": "/annexbookproect/static/js/787.3f236e36.chunk.js",
+    "index.html": "/annexbookproect/index.html",
+    "main.7d9d3625.css.map": "/annexbookproect/static/css/main.7d9d3625.css.map",
+    "main.be5184c6.js.map": "/annexbookproect/static/js/main.be5184c6.js.map",
+    "787.3f236e36.chunk.js.map": "/annexbookproect/static/js/787.3f236e36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d9d3625.css",
+    "static/js/main.be5184c6.js"
+  ]
+}
